@@ -12,7 +12,7 @@ main:
     url: /abstracts/
     
   - title: "About me"
-   url: /aboutme/
+    url: /aboutme/
    
   - title: "CV"
     url: /cv/
